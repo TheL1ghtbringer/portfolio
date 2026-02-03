@@ -28,7 +28,7 @@
 - Адаптированная структура для дальнейшего расширения портфолио
 
 ## Ссылка на сайт
-👉 https://the1ghtbringer.github.io/portfolio/
+👉 https://thel1ghtbringer.github.io/portfolio/
 
 ## Автор
 **ФИО:** Sabyrgali Amanzhan    
